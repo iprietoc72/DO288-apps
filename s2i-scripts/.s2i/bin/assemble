@@ -19,7 +19,6 @@ echo "---> Creating info page"
 echo "Page built on $DATE" >> ./info.html
 echo "IVAN Page built on $DATE" > ./infoivan.html
 echo "Proudly served by Apache HTTP Server version $HTTPD_VERSION" >> ./info.html
-cp ./infoivan.html ./
 
 ######## CUSTOMIZATION ENDS HERE ############
 
